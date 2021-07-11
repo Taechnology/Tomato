@@ -1,0 +1,1134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-07-11T22:02:55.889+09:00
+  initializedAtString: 2021-07-11T22:02:16.012+09:00
+  entries:
+  - path: Assets/Plugins.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins.meta
+    projectPath: Assets/Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub.meta
+    projectPath: Assets/Plugins/GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor.meta
+    projectPath: Assets/Plugins/GitHub/Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/credits.txt
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/credits.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/eula.txt
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/eula.txt.meta
+    projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
+    projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/libsfw.bundle
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/libsfw.so
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/sfw.net.dll
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/System.Threading.dll
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/x64.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/x86.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/APIUpdater/project-dependencies.graph
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/APIUpdater/project-dependencies.graph
+    projectPath: Library/APIUpdater/project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB-lock
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/ArtifactDB-lock
+    projectPath: Library/ArtifactDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/03/031e93fc0904d1bf6e77e3af3af1e78d
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/03/031e93fc0904d1bf6e77e3af3af1e78d
+    projectPath: Library/Artifacts/03/031e93fc0904d1bf6e77e3af3af1e78d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/07/07a653c522a72cc1b0f696d0b7576cc3
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/07/07a653c522a72cc1b0f696d0b7576cc3
+    projectPath: Library/Artifacts/07/07a653c522a72cc1b0f696d0b7576cc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/3f/3fde39a0ac32981cd308c39f571c105a
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/3f/3fde39a0ac32981cd308c39f571c105a
+    projectPath: Library/Artifacts/3f/3fde39a0ac32981cd308c39f571c105a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/60/60c5372f90cfb757cd63417347b21c54
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/60/60c5372f90cfb757cd63417347b21c54
+    projectPath: Library/Artifacts/60/60c5372f90cfb757cd63417347b21c54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/66/66c8bcda36225ba091464c8df68c12f5
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/66/66c8bcda36225ba091464c8df68c12f5
+    projectPath: Library/Artifacts/66/66c8bcda36225ba091464c8df68c12f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/6a/6aafca035d28e6248f98ea62fd174c91
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/6a/6aafca035d28e6248f98ea62fd174c91
+    projectPath: Library/Artifacts/6a/6aafca035d28e6248f98ea62fd174c91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/76/76b09290903b8c7da246ad69ed336ad2
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/76/76b09290903b8c7da246ad69ed336ad2
+    projectPath: Library/Artifacts/76/76b09290903b8c7da246ad69ed336ad2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/81/811b9d40864c13f57f0b0ea9c714d5dc
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/81/811b9d40864c13f57f0b0ea9c714d5dc
+    projectPath: Library/Artifacts/81/811b9d40864c13f57f0b0ea9c714d5dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/82/82108f944ceb23fd0c375157bae96a18
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/82/82108f944ceb23fd0c375157bae96a18
+    projectPath: Library/Artifacts/82/82108f944ceb23fd0c375157bae96a18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8c/8c13f6844f9061ca584afae262000a65
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/8c/8c13f6844f9061ca584afae262000a65
+    projectPath: Library/Artifacts/8c/8c13f6844f9061ca584afae262000a65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9a/9af957f233545a7c5e42c8eace3a5136
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/9a/9af957f233545a7c5e42c8eace3a5136
+    projectPath: Library/Artifacts/9a/9af957f233545a7c5e42c8eace3a5136
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b7/b70547605645b0fef1fe4d2cc1f0c8a1
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/b7/b70547605645b0fef1fe4d2cc1f0c8a1
+    projectPath: Library/Artifacts/b7/b70547605645b0fef1fe4d2cc1f0c8a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bc/bc23fa14b62ef80f1a7d7c84756c63ce
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/bc/bc23fa14b62ef80f1a7d7c84756c63ce
+    projectPath: Library/Artifacts/bc/bc23fa14b62ef80f1a7d7c84756c63ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c9/c9f91a9a80efbe1057c3863d6ce1725a
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/c9/c9f91a9a80efbe1057c3863d6ce1725a
+    projectPath: Library/Artifacts/c9/c9f91a9a80efbe1057c3863d6ce1725a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/cc/cc26ce7c9a970c0428eef69a9913832f
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/cc/cc26ce7c9a970c0428eef69a9913832f
+    projectPath: Library/Artifacts/cc/cc26ce7c9a970c0428eef69a9913832f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d1/d186fa40ae65a4021967bd50673a4f35
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/d1/d186fa40ae65a4021967bd50673a4f35
+    projectPath: Library/Artifacts/d1/d186fa40ae65a4021967bd50673a4f35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d4/d4fb3aa8cbd333f813d6376b2be87c5a
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/d4/d4fb3aa8cbd333f813d6376b2be87c5a
+    projectPath: Library/Artifacts/d4/d4fb3aa8cbd333f813d6376b2be87c5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e0/e0b88e15d747efc77a6237a7e1877d01
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/e0/e0b88e15d747efc77a6237a7e1877d01
+    projectPath: Library/Artifacts/e0/e0b88e15d747efc77a6237a7e1877d01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/e9/e975c2f2a24dc22097accd8bafca38fe
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/e9/e975c2f2a24dc22097accd8bafca38fe
+    projectPath: Library/Artifacts/e9/e975c2f2a24dc22097accd8bafca38fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f7/f7c624b7f6628a51fb05fa63e123b6d6
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/f7/f7c624b7f6628a51fb05fa63e123b6d6
+    projectPath: Library/Artifacts/f7/f7c624b7f6628a51fb05fa63e123b6d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/fa/faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/fa/faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    projectPath: Library/Artifacts/fa/faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ff/ffd8914e0ccda982a0c31023555f979d
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/Artifacts/ff/ffd8914e0ccda982a0c31023555f979d
+    projectPath: Library/Artifacts/ff/ffd8914e0ccda982a0c31023555f979d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/CurrentLayout-default.dwlt
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/CurrentLayout-default.dwlt
+    projectPath: Library/CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorSnapSettings.asset
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/EditorSnapSettings.asset
+    projectPath: Library/EditorSnapSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/expandedItems
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/expandedItems
+    projectPath: Library/expandedItems
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/LastSceneManagerSetup.txt
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/LastSceneManagerSetup.txt
+    projectPath: Library/LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/SourceAssetDB
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB-lock
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/SourceAssetDB-lock
+    projectPath: Library/SourceAssetDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Logs/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings/SceneTemplateSettings.json
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/ProjectSettings/SceneTemplateSettings.json
+    projectPath: ProjectSettings/SceneTemplateSettings.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/CompilationLog.txt
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/CompilationLog.txt
+    projectPath: Temp/CompilationLog.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/PsdPlugin.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/PsdPlugin.dll.hash
+    projectPath: Temp/PsdPlugin.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Animation.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.Animation.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Animation.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Animation.Runtime.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.Animation.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.Animation.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Common.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.Common.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Common.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Common.Runtime.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.Common.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.Common.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.IK.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.IK.Editor.dll.hash
+    projectPath: Temp/Unity.2D.IK.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.IK.Runtime.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.IK.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.IK.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Path.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.Path.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Path.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.PixelPerfect.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.PixelPerfect.dll.hash
+    projectPath: Temp/Unity.2D.PixelPerfect.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+    projectPath: Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Psdimporter.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.Psdimporter.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Psdimporter.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Sprite.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.Sprite.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Sprite.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.SpriteShape.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.SpriteShape.Editor.dll.hash
+    projectPath: Temp/Unity.2D.SpriteShape.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+    projectPath: Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.2D.Tilemap.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.2D.Tilemap.Editor.dll.hash
+    projectPath: Temp/Unity.2D.Tilemap.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.CollabProxy.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp/Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+    projectPath: Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+    projectPath: Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.Mathematics.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.Mathematics.dll.hash
+    projectPath: Temp/Unity.Mathematics.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.Mathematics.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.Mathematics.Editor.dll.hash
+    projectPath: Temp/Unity.Mathematics.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.PlasticSCM.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.PlasticSCM.Editor.dll.hash
+    projectPath: Temp/Unity.PlasticSCM.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.Rider.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.Rider.Editor.dll.hash
+    projectPath: Temp/Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.TextMeshPro.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.TextMeshPro.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.TextMeshPro.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.Timeline.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.Timeline.dll.hash
+    projectPath: Temp/Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.Timeline.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.Timeline.Editor.dll.hash
+    projectPath: Temp/Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.VisualStudio.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp/Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/Unity.VSCode.Editor.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/Unity.VSCode.Editor.dll.hash
+    projectPath: Temp/Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityEditor.TestRunner.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityEditor.TestRunner.dll.hash
+    projectPath: Temp/UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityEditor.UI.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityEditor.UI.dll.hash
+    projectPath: Temp/UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityEngine.TestRunner.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityEngine.TestRunner.dll.hash
+    projectPath: Temp/UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityEngine.UI.dll.hash
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityEngine.UI.dll.hash
+    projectPath: Temp/UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0645f8193c23d4f30a44bc797c2deeca
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-0645f8193c23d4f30a44bc797c2deeca
+    projectPath: Temp/UnityTempFile-0645f8193c23d4f30a44bc797c2deeca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0b5aefd84603f4f3c8c7478af0fabe4d
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-0b5aefd84603f4f3c8c7478af0fabe4d
+    projectPath: Temp/UnityTempFile-0b5aefd84603f4f3c8c7478af0fabe4d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0d9a371e9047b46fe9a7936e589806cb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-0d9a371e9047b46fe9a7936e589806cb
+    projectPath: Temp/UnityTempFile-0d9a371e9047b46fe9a7936e589806cb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0f57bdb0518004677af0d103a16dad1e
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-0f57bdb0518004677af0d103a16dad1e
+    projectPath: Temp/UnityTempFile-0f57bdb0518004677af0d103a16dad1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-10f8dbd1863c64df6b57a9797fc51e07
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-10f8dbd1863c64df6b57a9797fc51e07
+    projectPath: Temp/UnityTempFile-10f8dbd1863c64df6b57a9797fc51e07
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-1183a3ed9fffe4f6b9025ae441c72bc7
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-1183a3ed9fffe4f6b9025ae441c72bc7
+    projectPath: Temp/UnityTempFile-1183a3ed9fffe4f6b9025ae441c72bc7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-20a6c0e0e2b4741538aebd320a5a5b87
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-20a6c0e0e2b4741538aebd320a5a5b87
+    projectPath: Temp/UnityTempFile-20a6c0e0e2b4741538aebd320a5a5b87
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-333c518591d4c4522970018237d61e29
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-333c518591d4c4522970018237d61e29
+    projectPath: Temp/UnityTempFile-333c518591d4c4522970018237d61e29
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-364158d9c5fea429aadd4e1355bf6736
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-364158d9c5fea429aadd4e1355bf6736
+    projectPath: Temp/UnityTempFile-364158d9c5fea429aadd4e1355bf6736
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-36d8a13d79a434a53bd469f194145a5f
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-36d8a13d79a434a53bd469f194145a5f
+    projectPath: Temp/UnityTempFile-36d8a13d79a434a53bd469f194145a5f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-382b19939d35e44fabf413ab5823565a
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-382b19939d35e44fabf413ab5823565a
+    projectPath: Temp/UnityTempFile-382b19939d35e44fabf413ab5823565a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-42664472e074c41f795c4a3bb867c041
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-42664472e074c41f795c4a3bb867c041
+    projectPath: Temp/UnityTempFile-42664472e074c41f795c4a3bb867c041
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-57e8ee8e447c9442dbaea5fb4b804910
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-57e8ee8e447c9442dbaea5fb4b804910
+    projectPath: Temp/UnityTempFile-57e8ee8e447c9442dbaea5fb4b804910
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-5b006604d0c9b4c7282eee19c6ab87c5
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-5b006604d0c9b4c7282eee19c6ab87c5
+    projectPath: Temp/UnityTempFile-5b006604d0c9b4c7282eee19c6ab87c5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-5f5bfcf12a671415e8c0af865434e6cd
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-5f5bfcf12a671415e8c0af865434e6cd
+    projectPath: Temp/UnityTempFile-5f5bfcf12a671415e8c0af865434e6cd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-61c352e83f9ba4ed0829a8dbb9cd76fb
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-61c352e83f9ba4ed0829a8dbb9cd76fb
+    projectPath: Temp/UnityTempFile-61c352e83f9ba4ed0829a8dbb9cd76fb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-67064e83fb6c34e3093deee203de66ab
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-67064e83fb6c34e3093deee203de66ab
+    projectPath: Temp/UnityTempFile-67064e83fb6c34e3093deee203de66ab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-73bb362e9435e45ac8b132239f52e4b0
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-73bb362e9435e45ac8b132239f52e4b0
+    projectPath: Temp/UnityTempFile-73bb362e9435e45ac8b132239f52e4b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-84d108aec6dcd4f429e6fbffa65c51ff
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-84d108aec6dcd4f429e6fbffa65c51ff
+    projectPath: Temp/UnityTempFile-84d108aec6dcd4f429e6fbffa65c51ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9faeaed200f474d92b70966d81d17f7a
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-9faeaed200f474d92b70966d81d17f7a
+    projectPath: Temp/UnityTempFile-9faeaed200f474d92b70966d81d17f7a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-a121bc3e0e12c4805a6cabbb44037f08
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-a121bc3e0e12c4805a6cabbb44037f08
+    projectPath: Temp/UnityTempFile-a121bc3e0e12c4805a6cabbb44037f08
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ab0b5b1ddaab74b70b9bd1df98c2a864
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-ab0b5b1ddaab74b70b9bd1df98c2a864
+    projectPath: Temp/UnityTempFile-ab0b5b1ddaab74b70b9bd1df98c2a864
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ab9b3599817504a868ae0c367cb03c4f
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-ab9b3599817504a868ae0c367cb03c4f
+    projectPath: Temp/UnityTempFile-ab9b3599817504a868ae0c367cb03c4f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-aef5ed4ce02ab49c4b822f431f4da00a
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-aef5ed4ce02ab49c4b822f431f4da00a
+    projectPath: Temp/UnityTempFile-aef5ed4ce02ab49c4b822f431f4da00a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-b7620f1db7e7148d99e98eae9b4c4e26
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-b7620f1db7e7148d99e98eae9b4c4e26
+    projectPath: Temp/UnityTempFile-b7620f1db7e7148d99e98eae9b4c4e26
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-c206098bc5aab4c108562b2b07c62495
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-c206098bc5aab4c108562b2b07c62495
+    projectPath: Temp/UnityTempFile-c206098bc5aab4c108562b2b07c62495
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-c2c89712ab3d2413abd8c56e56d47bdc
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-c2c89712ab3d2413abd8c56e56d47bdc
+    projectPath: Temp/UnityTempFile-c2c89712ab3d2413abd8c56e56d47bdc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-cdd0ea37953b24b9bb33f97086b29d78
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-cdd0ea37953b24b9bb33f97086b29d78
+    projectPath: Temp/UnityTempFile-cdd0ea37953b24b9bb33f97086b29d78
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ce32732e6db5e4730b8de9ae31aeea7d
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-ce32732e6db5e4730b8de9ae31aeea7d
+    projectPath: Temp/UnityTempFile-ce32732e6db5e4730b8de9ae31aeea7d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e2a954d9cff2c42ebba764958f8d2436
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-e2a954d9cff2c42ebba764958f8d2436
+    projectPath: Temp/UnityTempFile-e2a954d9cff2c42ebba764958f8d2436
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e4ca9b747ad7c496bbc8deea3956b9b7
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-e4ca9b747ad7c496bbc8deea3956b9b7
+    projectPath: Temp/UnityTempFile-e4ca9b747ad7c496bbc8deea3956b9b7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f83a0172340dc4c85bb2e6a397fcefc9
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-f83a0172340dc4c85bb2e6a397fcefc9
+    projectPath: Temp/UnityTempFile-f83a0172340dc4c85bb2e6a397fcefc9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-fbb0ff4a618c44b9b9680f9259b3fb8e
+    fullPath: /Users/student/Desktop/Tomato (CAS Project)/Temp/UnityTempFile-fbb0ff4a618c44b9b9680f9259b3fb8e
+    projectPath: Temp/UnityTempFile-fbb0ff4a618c44b9b9680f9259b3fb8e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
