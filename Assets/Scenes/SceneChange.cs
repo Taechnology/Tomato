@@ -10,5 +10,4 @@ public class SceneChange : MonoBehaviour
         SceneManager.LoadScene("Scene2");
     }
 
-
 }

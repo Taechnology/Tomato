@@ -14,22 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/SampleScene.unity
-    - Assets/SampleScene.unity.meta
-    - Assets/Scenes/Scene1.unity
-    - Assets/Scenes/Scene1.unity.meta
+    - Assets/Scenes/Ground.png
+    - Assets/Scenes/Ground.png.meta
     - Assets/Scenes/Scene2.unity
-    - Assets/Scenes/Scene2.unity.meta
-    - Assets/Scenes/SceneChange.cs
-    - Assets/Scenes/SceneChange.cs.meta
-    - Assets/Screen Shot 2020-05-13 at 1.57.38 PM copy.png
-    - Assets/Screen Shot 2020-05-13 at 1.57.38 PM copy.png.meta
-    - Assets/Square.png
-    - Assets/Square.png.meta
-    - ProjectSettings/EditorBuildSettings.asset
-    - ProjectSettings/ProjectSettings.asset
+    - Assets/Scenes/start.png.meta
     - 
-    m_Values: 000000000000000000000000000000
+    m_Values: 0000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
